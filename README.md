@@ -12,6 +12,8 @@ Acesse meu LinkedIn pelo link:
 
 [LinkedIn] (www.linkedin.com/in/gabrielmachado0)
 
+#
+
 ## This is my Repository for Personal Projects
 
 I created this Repertory based on Professor Gustavo Guanabara's Git and GitHub course, so that I can make my projects visible on my GitHub profile.
