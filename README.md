@@ -15,7 +15,6 @@ I leave all my projects in the repository:
 [My Projects] (https://github.com/GabrielPMachado/My-Projects)
 
 Acesse meu LinkedIn pelo link:
-
 Access my LinkedIn via the link:
 
 [LinkedIn] (www.linkedin.com/in/gabrielmachado0)
