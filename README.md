@@ -6,11 +6,11 @@ Eu criei este Repertório apartir do curso de Git e GitHub do Professor Gustavo 
 
 Eu deixo todos os meus projetos no repositório:
 
-[My Projects] (https://github.com/GabrielPMachado/My-Projects)
+[My Projects](https://github.com/GabrielPMachado/My-Projects)
 
 Acesse meu LinkedIn pelo link:
 
-[LinkedIn] (www.linkedin.com/in/gabrielmachado0)
+[LinkedIn](www.linkedin.com/in/gabrielmachado0)
 
 ## This is my Repository for Personal Projects
 
@@ -20,8 +20,8 @@ I created this Repertory based on Professor Gustavo Guanabara's Git and GitHub c
 
 I leave all my projects in the repository:
 
-[My Projects] (https://github.com/GabrielPMachado/My-Projects)
+[My Projects](https://github.com/GabrielPMachado/My-Projects)
 
 Access my LinkedIn via the link:
 
-[LinkedIn] (www.linkedin.com/in/gabrielmachado0)
+[LinkedIn](www.linkedin.com/in/gabrielmachado0)
